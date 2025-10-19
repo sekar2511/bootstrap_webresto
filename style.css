@@ -1,0 +1,140 @@
+nav {
+    width: 1000x;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(186, 55, 129)
+}
+
+nav a {
+    color: #f8f8f8;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 20px;
+    padding: 9px 15px;
+    display: inline-block;
+
+    border-radius: 4px;
+}
+
+nav a:hover {
+    background-color: #e770ac;
+}
+
+header {
+
+    background-image: url(image/background.jpg);
+
+    padding: 0rem 0;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-blend-mode: overlay;
+    background-color: rgba(244, 244, 244, 0.8);
+}
+
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+    color: #9e115c;
+    margin-bottom: 40px;
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+i {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 1, 8em;
+}
+
+.btr-order {
+    padding: 15px;
+    margin: 20px;
+    border: none;
+    border-radius: 15px;
+    background-color: #ab1462;
+    color: #f8f8f8;
+    font-size: 2em;
+
+}
+
+img {
+
+    width: 25%;
+
+    margin: 20px;
+    padding: 8px;
+    background-color: #fff;
+    box-shadow: 0 0 18px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+}
+
+p {
+    font-size: 1, 9em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #333;
+
+}
+
+.container {
+    width: 85%;
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 25px;
+    background-color: honeydew;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 20px;
+    padding: 9px 30px;
+    display: inline-block;
+}
+
+.link a {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+font {
+    text-align: center;
+    color: #9e115c;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    text-align: center;
+    color: #9e115c;
+    margin-bottom: 40px;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+label {
+     text-align: center;
+    color: black;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
+.container h3 {
+     padding: 15px;
+    margin: 20px;
+    border: none;
+    border-radius: 15px;
+    background-color: #ab1462;
+    color: #f8f8f8;
+}
